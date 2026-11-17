@@ -1,0 +1,6 @@
+.DS_Store
+*.local
+*_history
+.ssh/
+hosts.yml
+mac/Brewfile.local

@@ -1,0 +1,73 @@
+# Play, record, convert, and stream select audio and video codecs
+brew "ffmpeg"
+# Command-line fuzzy finder written in Go
+brew "fzf"
+# Feature-rich command-line audio/video downloader
+brew "yt-dlp"
+# Command-line downloader for image-hosting site galleries and collections
+brew "gallery-dl"
+# GitHub command-line tool
+brew "gh"
+# Client library for huggingface.co hub
+brew "hf"
+# Simple terminal UI for git commands
+brew "lazygit"
+# Tools for and transforming and inspecting PDF files
+brew "qpdf"
+# Cross-shell prompt for astronauts
+brew "starship"
+# Organize software neatly under a single directory tree (e.g. /usr/local)
+brew "stow"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+# Extremely fast Python package installer and resolver, written in Rust
+brew "uv"
+# Blazing fast terminal file manager written in Rust, based on async I/O
+brew "yazi"
+# Pluggable terminal workspace, with terminal multiplexer as the base feature
+brew "zellij"
+# Shell extension to navigate your filesystem faster
+brew "zoxide"
+# Apple TV Aerial screensaver
+cask "aerial"
+# Desktop client for brain.fm
+cask "brainfm"
+# Video editing and image design platform
+cask "capcut"
+# Anthropic's official Claude AI desktop app
+cask "claude"
+# Voice and text chat software
+cask "discord"
+cask "font-jetbrains-mono-nerd-font"
+# Terminal emulator that uses platform-native UI and GPU acceleration
+cask "ghostty"
+# Desktop client for GitHub repositories
+cask "github"
+# Web browser
+cask "google-chrome"
+# Native desktop AI assistant from Google
+cask "google-gemini"
+# Free and open-source media player
+cask "iina"
+# JetBrains tools manager
+cask "jetbrains-toolbox"
+# Discover, download, and run local LLMs
+cask "lm-studio"
+# Knowledge base that works on top of a local folder of plain text Markdown files
+cask "obsidian"
+# Get up and running with large language models locally
+cask "ollama-app"
+# Replacement for Docker Desktop
+cask "orbstack"
+# Control your tools with a few keystrokes
+cask "raycast"
+# Music streaming service
+cask "spotify"
+# Text editor for code, markup and prose
+cask "sublime-text"
+# GPU-accelerated cross-platform terminal emulator and multiplexer
+cask "wezterm"
+# Gecko based web browser
+cask "zen"
+# Video communication and virtual meeting platform
+cask "zoom"
